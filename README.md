@@ -1,6 +1,6 @@
 
 #### Cześć jak sie masz ?
-⋅⋅* Dobrze?
+⋅⋅* Dobrze?\n
 
 ⋅⋅* Niedobrze ?
 
