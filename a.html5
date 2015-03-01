@@ -1,0 +1,7 @@
+<table summary="">
+<caption></caption>
+<tr><th rowspan="2"><th colspan="2">Tabela porównawcza
+<tr><th>MarkDown      <th>| reStructuredText |<th>AsciiDoc
+<tr><th>HEAD       <td><center>#<td><center>....<td><center>=
+<tr><th>Emphasis     <td><center>*<td><center>....<td><center>*
+</table>
