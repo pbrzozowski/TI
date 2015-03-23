@@ -1,7 +1,6 @@
 
 <table border="1">
-<caption align="top">Tabelka porównująca notacje(html).
-<tr bgcolor="#CC66FF"><th>FUNKCJA <th> ASCII <th> MARKDOWN 
+<th>FUNKCJA <th> ASCII <th> MARKDOWN 
 <tr><td> Nagłowek H <td> ====== lub ==H <td>  brak 
 <tr><td> Nagłowek H1 <td> ----- lub ===H1 <td> #
 <tr><td> Nagłowek H2 <td> ~~~~~ lub ====H2 <td> ##
