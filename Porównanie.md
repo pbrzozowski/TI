@@ -17,3 +17,10 @@
 |Z opisem|    nd.    |\[nazwa](www.adres.pl"opis")|
 |przypis|       nd.     |teskt\[1]  \[1]:www.adres.pl|
 |Obrazek|          nd.             |\!\[alt text](https://adres.pl "Tytuł,nazwa")
+
+***************************************************************************************************
+
+#Aktualny Program TV
+|Godz.|   TVP1 ![TVP1](http://i.wp.pl/a/i/program_tv/logotypy/tvp1.jpg "TVP1")|TVP2 ![TVP2](http://i.wp.pl/a/i/program_tv/logotypy/tvp2.jpg "TVP2")|TVN ![TVN](http://i.wp.pl/a/f/jpeg/34592/tvn2.jpeg "TVN")|
+| ----------------     |:------------------:|:-----------------------:|:----------------------:|
+|20:00|Sport|Barwy Szczęścia|Doradca Smaku|
